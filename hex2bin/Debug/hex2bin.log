@@ -1,0 +1,10 @@
+﻿  binary.c
+  common.c
+E:\vs_code_project\hex2bin\hex2bin\Hex2bin-2.5\common.h(12,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+E:\vs_code_project\hex2bin\hex2bin\Hex2bin-2.5\common.c : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  hex2bin.c
+E:\vs_code_project\hex2bin\hex2bin\Hex2bin-2.5\common.h(12,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+E:\vs_code_project\hex2bin\hex2bin\Hex2bin-2.5\hex2bin.c : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  libcrc.c
+  正在生成代码...
+  hex2bin.vcxproj -> E:\vs_code_project\hex2bin\Debug\hex2bin.exe
